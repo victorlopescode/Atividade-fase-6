@@ -115,16 +115,7 @@ Além disso, as análises críticas revelaram:
 
 ---
 
-## 🎥 Demonstração
 
-Assista à demonstração prática no vídeo:  
-🔗 [YouTube - Demonstração FarmTech Solutions (Não listado)](https://www.youtube.com)
 
----
 
-## 👨‍💻 Autor
 
-**Nome:** João Santos  
-**RM:** 76332  
-**Curso:** Inteligência Artificial Aplicada — FIAP  
-**Fase:** 6 — Projeto FarmTech Solutions  
